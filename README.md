@@ -13,7 +13,9 @@ I go by **GoodLuckTrying** (Wolfric) — ROM hacker, spriter and fan translator.
  - [Super Ghouls'n Ghosts Frame Visualizer](https://github.com/GoodLuckTrying/Super_Ghouls_n_Ghosts_Frame_Visualizer) — sprite frame data visualizer and hex converter ([use online](https://goodlucktrying.github.io/Super_Ghouls_n_Ghosts_Frame_Visualizer/))
  - [Romhacking Resources](https://github.com/GoodLuckTrying/romhacking-resources) — curated ROM modding sites, tools and communities
 
-# Other Hacks
+# Ghosts 'n Goblins
+
+## Other Hacks
 
 Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/#Other-Hacks):
 
@@ -23,7 +25,7 @@ Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying
  - [Ghouls 'n Ghosts: Artoria Edition v1.1 (Genesis)](https://www.romhacking.net/hacks/9232/)
  - [Ghouls 'n Ghosts Restoration v1.2 (Genesis)](https://www.romhacking.net/hacks/9163/)
 
-# Works in Progress
+## Works in Progress
 
 Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/#Works-in-Progress):
 
