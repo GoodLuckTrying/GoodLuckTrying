@@ -13,6 +13,24 @@ I go by **GoodLuckTrying** (Wolfric) — ROM hacker, spriter and fan translator.
  - [Super Ghouls'n Ghosts Frame Visualizer](https://github.com/GoodLuckTrying/Super_Ghouls_n_Ghosts_Frame_Visualizer) — sprite frame data visualizer and hex converter ([use online](https://goodlucktrying.github.io/Super_Ghouls_n_Ghosts_Frame_Visualizer/))
  - [Romhacking Resources](https://github.com/GoodLuckTrying/romhacking-resources) — curated ROM modding sites, tools and communities
 
+# Other Hacks
+
+Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/#Other-Hacks):
+
+ - [Super Ghouls 'N Ghosts: Knight/Maiden Artoria Edition v3.4 (SNES)](https://www.romhacking.net/hacks/9094/)
+ - [Super Ghouls 'N Ghosts: Enhanced Arthur Edition v1.1 (SNES)](https://www.romhacking.net/hacks/10009/)
+ - [Super Ghouls 'N Ghosts: Knight/Maiden Artoria Edition v1.6 (GBA)](https://www.romhacking.net/hacks/9110/)
+ - [Ghouls 'n Ghosts: Artoria Edition v1.1 (Genesis)](https://www.romhacking.net/hacks/9232/)
+ - [Ghouls 'n Ghosts Restoration v1.2 (Genesis)](https://www.romhacking.net/hacks/9163/)
+
+# Works in Progress
+
+Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/#Works-in-Progress):
+
+ - Ghosts'n Goblins: Princess Edition v1.0 (Arcade) — with [Poody](https://twitter.com/hetagaki_poody)
+ - Super Ghouls 'N Ghosts: Brave Edition v1.0 (SNES) — with [Poody](https://twitter.com/hetagaki_poody)
+ - Super Ghouls 'N Ghosts: Valkyrie Edition v1.0 (SNES)
+
 # Social/Hacks
 
 [![Arcade Patcher](https://img.shields.io/badge/Arcade_Patcher-%23005C2F.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/)
