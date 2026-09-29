@@ -1,6 +1,6 @@
 ### 👋
 
-I go by **GoodLuckTrying** (Wolfric) — arcade & console ROM hacker, spriter and fan translator. These days mostly *Ghosts'n Goblins / Makaimura*.
+I go by **GoodLuckTrying** (Wolfric) — ROM hacker, spriter and fan translator. These days mostly *Ghosts'n Goblins / Makaimura*.
 
 # Links
  - [Assault Suit Leynos Re-Localization (Genesis)](https://www.romhacking.net/translations/7417/) ([tools](https://github.com/tryphon77/Assault-Suit-Leynos-Translation))
