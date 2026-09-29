@@ -19,6 +19,8 @@ I go by **GoodLuckTrying** (Wolfric) — ROM hacker, spriter and fan translator.
 [![Romhacking.net](https://img.shields.io/badge/Romhacking.net-%23222222.svg?style=for-the-badge)](https://www.romhacking.net/community/8766/)
 [![ROMhack.ing](https://img.shields.io/badge/ROMhack.ing-%231D4ED8.svg?style=for-the-badge)](https://romhack.ing/database/author/entry/IXwDNVSgRA-QxhaetBpM1Q/goodlucktrying)
 [![Romhack Plaza](https://img.shields.io/badge/Romhack_Plaza-%23B45309.svg?style=for-the-badge)](https://romhackplaza.org/database?userId=2173)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@wolfric)
 [![Ghosts'n Goblins Hacking Discord](https://img.shields.io/badge/Ghosts'n_Goblins_Hacking-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t6A5z9YnXv)
+[![Seventh Heaven - The JRPG Server](https://img.shields.io/badge/Seventh_Heaven_JRPG_Server-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/seventh-heaven-the-jrpg-server-670810573642006528)
 
 ![Discord DMs](https://img.shields.io/badge/DMs-goodlucktrying-blue?style=for-the-badge&logo=discord&logoColor=white)
