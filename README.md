@@ -33,12 +33,15 @@ Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying
  - Super Ghouls 'N Ghosts: Brave Edition v1.0 (SNES) — with [Poody](https://twitter.com/hetagaki_poody)
  - Super Ghouls 'N Ghosts: Valkyrie Edition v1.0 (SNES)
 
-# Social/Hacks
+# Hacks
 
 [![Arcade Patcher](https://img.shields.io/badge/Arcade_Patcher-%23005C2F.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/)
 [![Romhacking.net](https://img.shields.io/badge/Romhacking.net-%23222222.svg?style=for-the-badge)](https://www.romhacking.net/community/8766/)
 [![ROMhack.ing](https://img.shields.io/badge/ROMhack.ing-%231D4ED8.svg?style=for-the-badge)](https://romhack.ing/database/author/entry/IXwDNVSgRA-QxhaetBpM1Q/goodlucktrying)
 [![Romhack Plaza](https://img.shields.io/badge/Romhack_Plaza-%23B45309.svg?style=for-the-badge)](https://romhackplaza.org/database?userId=2173)
+
+# Socials
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@wolfric)
 [![Ghosts'n Goblins Hacking Discord](https://img.shields.io/badge/Ghosts'n_Goblins_Hacking-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t6A5z9YnXv)
 [![Seventh Heaven - The JRPG Server](https://img.shields.io/badge/Seventh_Heaven_JRPG_Server-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/seventh-heaven-the-jrpg-server-670810573642006528)
