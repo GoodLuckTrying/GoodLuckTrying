@@ -43,9 +43,9 @@ Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying
 # Socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@wolfric)
+![Discord DMs](https://img.shields.io/badge/DMs-goodlucktrying-blue?style=for-the-badge&logo=discord&logoColor=white)
 
 [![Ghosts'n Goblins Hacking Discord](https://img.shields.io/badge/Ghosts'n_Goblins_Hacking-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t6A5z9YnXv)
-
 [![Seventh Heaven - The JRPG Server](https://img.shields.io/badge/Seventh_Heaven_JRPG_Server-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/seventh-heaven-the-jrpg-server-670810573642006528)
 
-![Discord DMs](https://img.shields.io/badge/DMs-goodlucktrying-blue?style=for-the-badge&logo=discord&logoColor=white)
+
