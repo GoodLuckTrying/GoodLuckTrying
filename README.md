@@ -8,7 +8,7 @@ I go by **GoodLuckTrying** (Wolfric) — ROM hacker, spriter and fan translator.
  - [Ghosts'n Goblins / Makaimura — Knight & Maiden Artoria Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-artoria-v12) — 9 regional sets, fully supported by HBMAME and MAME 2003-Plus (FBNeo supports gng/makaimur)
  - [Ghosts'n Goblins Enhanced](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-enhanced-v10) — control-feel enhancements for 9 regional sets, fully supported by HBMAME and MAME 2003-Plus (FBNeo supports gng/makaimur)
  - [Ghouls'n Ghosts / Daimakaimura — Knight & Maiden Artoria Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=ghouls-artoria-v10) — World, USA and Japan sets sets fully supported by HBMAME and MAME 2003-Plus (FBNeo supports ghouls/daimakai)
- - [Palette Converter Hub](https://github.com/GoodLuckTrying/Palette_Converter_Hub) — arcade / Genesis CRAM / SNES palette converters with TPL export for Tile Layer Pro & Tile Molester ([use online](https://goodlucktrying.github.io/Palette_Converter_Hub/))
+ - [Palette Converter Hub]([https://github.com/GoodLuckTrying/Palette_Converter_Hub](https://goodlucktrying.github.io/Palette_Converter_Hub/)) — arcade / Genesis CRAM / SNES palette converters with TPL export for Tile Layer Pro & Tile Molester
 
 # Links
  - [Assault Suit Leynos Re-Localization (Genesis)](https://www.romhacking.net/translations/7417/) ([tools](https://github.com/tryphon77/Assault-Suit-Leynos-Translation))
