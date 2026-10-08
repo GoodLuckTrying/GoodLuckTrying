@@ -4,7 +4,7 @@ I go by **GoodLuckTrying** (Wolfric) — ROM hacker, spriter and fan translator.
 
 # Links
  - [Assault Suit Leynos Re-Localization (Genesis)](https://www.romhacking.net/translations/7417/) ([tools](https://github.com/tryphon77/Assault-Suit-Leynos-Translation))
- - [GoodLuckTrying Arcade Patcher]([https://github.com/GoodLuckTrying/GoodLuckTrying-Arcade-Patcher](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/)) — browser-based patchers for my arcade hacks, files never leave your device (+ previews of other hacks)
+ - [GoodLuckTrying Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/) — browser-based patchers for my arcade hacks, files never leave your device (+ [previews of other hacks](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/#Works-in-Progress))
  - [Ghosts'n Goblins / Makaimura — Knight & Maiden Artoria Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-artoria-v12) — 9 regional sets, natively supported by FBNeo, HBMAME and MAME 2003-Plus
  - [Ghouls'n Ghosts / Daimakaimura — Knight & Maiden Artoria Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=ghouls-artoria-v10) — World, USA and Japan CPS1 sets
  - [Ghosts'n Goblins Enhanced](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-enhanced-v10) — control-feel enhancements for 9 GNG / Makaimura sets
