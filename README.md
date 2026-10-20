@@ -32,11 +32,12 @@ Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying
 
 Previews on the [Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/#Works-in-Progress):
 
- - Castlevania III: Enhanced Editiob (NES) — with [sleepyren](https://www.romhacking.net/community/7299/)
+ - Castlevania III: Dracula's Curse Deluxe (NES) — with [sleepyren](https://www.romhacking.net/community/7299/)
  - Ghosts'n Goblins: Princess Edition v1.0 (Arcade) — with [Poody](https://twitter.com/hetagaki_poody)
  - Ghouls 'n Ghosts: Arthur, Knight & Maiden Artoria Edition (Genesis)
  - Super Ghouls 'N Ghosts: Brave Edition v1.0 (SNES) — with [Poody](https://twitter.com/hetagaki_poody)
  - Super Ghouls 'N Ghosts: Valkyrie Edition v1.0 (SNES)
+ - Super Ghouls 'N Ghosts: Arthur, Knight & Maiden Artoria Edition v1.2/v3.5 (SNES)
 
 # Hacks
 
