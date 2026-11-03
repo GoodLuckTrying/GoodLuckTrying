@@ -6,9 +6,9 @@ I go by **GoodLuckTrying** (Wolfric) — ROM hacker, spriter and fan translator.
 
  - [GoodLuckTrying Arcade Patcher](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/) — Website provides [previews for my other hacks + wips](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/#Works-in-Progress), as well as browser-based patchers for my arcade hacks (files never leave your device)
  - [Ghosts'n Goblins Enhanced](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-enhanced-v10) — control-feel enhancements for 9 regional sets, fully supported by HBMAME and MAME 2003-Plus (FBNeo supports gng/makaimur)
-  - [Ghosts'n Goblins / Makaimura — Knight & Maiden Artoria Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-artoria-v12) — 9 regional sets, fully supported by HBMAME and MAME 2003-Plus (FBNeo supports gng/makaimur)
-   - [Ghosts'n Goblins / Makaimura — Princess Prin Prin Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-princess-v10) — 9 regional sets, fully supported by HBMAME and MAME 2003-Plus (FBNeo supports gng/makaimur)
- - [Ghouls'n Ghosts / Daimakaimura — Knight & Maiden Artoria Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=ghouls-artoria-v10) — World, USA and Japan sets sets fully supported by HBMAME and MAME 2003-Plus (FBNeo supports ghouls/daimakai)
+  - [Ghosts'n Goblins / Makaimura: Knight & Maiden Artoria Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-artoria-v12) — 9 regional sets, fully supported by HBMAME and MAME 2003-Plus (FBNeo supports gng/makaimur)
+   - [Ghosts'n Goblins / Makaimura: Princess Prin Prin Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=gng-princess-v10) — 9 regional sets, fully supported by HBMAME and MAME 2003-Plus (FBNeo supports gng/makaimur)
+ - [Ghouls'n Ghosts / Daimakaimura: Knight & Maiden Artoria Editions](https://goodlucktrying.github.io/GoodLuckTrying-Arcade-Patcher/patcher.html?hack=ghouls-artoria-v10) — World, USA and Japan sets sets fully supported by HBMAME and MAME 2003-Plus (FBNeo supports ghouls/daimakai)
  - [Palette Converter Hub](https://goodlucktrying.github.io/Palette_Converter_Hub/) — arcade / Genesis CRAM / SNES palette converters with TPL export for Tile Layer Pro & Tile Molester
 
 # Links
